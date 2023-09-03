@@ -2,6 +2,7 @@
 #  Part 3: RD plots
 # Authors: Matias Cattaneo, Sebastian Calonico, Rocio Titiunik
 # Last update: May 2023
+# test
 #------------------------------------------------------------------------------#
 # SOFTWARE WEBSITE: https://rdpackages.github.io/rdrobust/
 #------------------------------------------------------------------------------#
